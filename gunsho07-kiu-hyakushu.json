@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kiu-hyakushu",
  "yomi": "",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "鎌倉後期",
+  "author": "津守国冬",
+  "desc": "住吉社の神主津守国冬が、秋の日に社頭で雨を祈って詠んだ百首。「雨中立春」「寄雨神祇」のように、四季・恋・雑のすべての題に雨を詠み込む。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -1171,6 +1176,6 @@
   "poems": 100,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
